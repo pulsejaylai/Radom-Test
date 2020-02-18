@@ -1,0 +1,55 @@
+﻿Build started 2016/7/22 上午 11:08:33.
+     1>Project "E:\jay\jay\RadomTest\RadomTest\RadomTest\RadomTest.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\VXIpnp\WinNT\lib\msc /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\RadomTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\VXIpnp\WinNT\lib\msc /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\RadomTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Gpib.cpp RadomTest.cpp RadomTestDlg.cpp xShdaeButton.cpp
+         xShdaeButton.cpp
+     1>e:\jay\jay\radomtest\radomtest\radomtest\xshdaebutton.cpp(821): warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\xshdaebutton.cpp(822): warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+         RadomTestDlg.cpp
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(323): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(596): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(611): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(628): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(643): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(660): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(675): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(692): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(707): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(944): warning C4101: 'd' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1030): warning C4101: 'buf' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1065): warning C4101: 'sp' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1073): warning C4101: 'p2' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1298): warning C4101: 'i' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1453): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1437): warning C4101: 'reading' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1440): warning C4101: 'POW2' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1433): warning C4101: 'chan' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1436): warning C4101: 'buf1' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1499): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1515): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1527): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1560): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1572): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1480): warning C4101: 'i' : unreferenced local variable
+     1>e:\jay\jay\radomtest\radomtest\radomtest\radomtestdlg.cpp(1479): warning C4101: 'buf2' : unreferenced local variable
+         RadomTest.cpp
+         Gpib.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\RadomTest.res" RadomTest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jay\jay\RadomTest\RadomTest\Debug\RadomTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\VXIpnp\WinNT\lib\msc visa32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\jay\jay\RadomTest\RadomTest\Debug\RadomTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jay\jay\RadomTest\RadomTest\Debug\RadomTest.lib" /MACHINE:X86 Debug\RadomTest.res
+         Debug\Gpib.obj
+         Debug\RadomTest.obj
+         Debug\RadomTestDlg.obj
+         Debug\stdafx.obj
+         Debug\xShdaeButton.obj
+         RadomTest.vcxproj -> E:\jay\jay\RadomTest\RadomTest\Debug\RadomTest.exe
+     1>Done Building Project "E:\jay\jay\RadomTest\RadomTest\RadomTest\RadomTest.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.65
